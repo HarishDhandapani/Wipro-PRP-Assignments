@@ -2,7 +2,7 @@ import java.util.*;
 public class Main{
   public static void main(string[] args){
     Scanner sc = new Scanner(System.in);
-    int numerArray[] = new int[25];
+    int numberArray[] = new int[25];
     for(int index=0;index<25;index++){
       numberArray[index]=sc.nextInt();
     }
